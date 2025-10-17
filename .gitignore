@@ -1,0 +1,9 @@
+ssh github key
+ssh github key.pub
+*.log
+*.tmp
+__pycache__/
+node_modules/
+.env
+*.bak
+
